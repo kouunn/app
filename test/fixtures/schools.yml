@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  rank: 1
+  location: MyString
+  introduction: MyText
+  i_student_num: 1
+  created_time: 2014-11-06
+  photo: MyString
+
+two:
+  name: MyString
+  type: 
+  rank: 1
+  location: MyString
+  introduction: MyText
+  i_student_num: 1
+  created_time: 2014-11-06
+  photo: MyString
